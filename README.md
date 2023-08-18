@@ -1,5 +1,5 @@
 # About Me:
-Hi! I'm Lucas Quaroni, a young student of software development from Argentina!<br>🔭 I’m currently studying on Belgrano Institute<br>🤝 I’m looking for my first IT job<br>🌱 I’m currently enrolled in the Technical Superior Course in Software Development<br>⚡ Fun fact: I'm really perseverant above all
+Hi! I'm Lucas Quaroni, a young student of software development from Argentina!<br>🔭 I’m currently studying on Belgrano Institute<br>🤝 I’m working on Enerminds, in a Fullstack Developer position<br>🌱 I’m currently enrolled in the Technical Superior Course in Software Development<br>⚡ Fun fact: I'm really perseverant above all
 
 
 ## 🌐 Socials:
