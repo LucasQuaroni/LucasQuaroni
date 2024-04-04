@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Lucas Quaroni, a young student of software development from Argentina!<br>🔭 I’m currently studying on UAI University, in the Systems Engineer career<br>🤝 Working at Enerminds, in the FullStack Developer position<br>🌱 I'm constantly learning<br>⚡ Fun fact: I'm really perseverant above all
+Hi! I'm Lucas Quaroni, a young student of systems engineering from Argentina!<br>🔭 I’m currently studying on UAI University, in the Systems Engineer career<br>🤝 Working at Enerminds, in the FullStack Developer position<br>🌱 I'm constantly learning<br>⚡ Fun fact: I'm really perseverant above all
 
 
 ## 🌐 Socials:
